@@ -1,0 +1,9 @@
+
+
+1. input a number n
+2. print n
+3. if n = 1 then STOP
+4. if n is odd then n is turned out to be 3n + 1
+5. else n is turned out to be n/2
+6. GOTO 2
+for example if n=22 then you may see 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 on the screen
